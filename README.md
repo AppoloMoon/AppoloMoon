@@ -4,8 +4,8 @@
 
 <p>
   <img src="https://img.shields.io/badge/📍_Nantes-France-1f6feb?style=flat-square" />
-  <img src="https://img.shields.io/badge/🎓_Mastère-EPSI_Nantes-8957e5?style=flat-square" />
-  <img src="https://img.shields.io/badge/💼_Alternance-Numeriwan-2ea043?style=flat-square" />
+  <img src="https://img.shields.io/badge/🎓_Mastère-8957e5?style=flat-square" />
+  <img src="https://img.shields.io/badge/💼_Alternance-2ea043?style=flat-square" />
 </p>
 
 </div>
